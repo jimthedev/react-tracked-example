@@ -17,7 +17,7 @@ export function App({ useTracked }) {
         Button
       </Button>
       {state.name}
-      Yo
+      Yo yooooooo
     </div>
   );
 }
